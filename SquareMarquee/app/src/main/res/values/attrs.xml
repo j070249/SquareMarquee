@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr name="appWidgetBackgroundColor" format="color" />
+        <attr name="appWidgetTextColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="HaloView">
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="rate" format="integer" />
+        <attr name="radius" format="integer" />
+    </declare-styleable>
+</resources>
